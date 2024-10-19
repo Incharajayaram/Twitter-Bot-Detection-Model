@@ -1,4 +1,6 @@
 venv/
-.env
-.aws/
+*.env
+*.aws/
 dataset/
+*.pt
+*.pth
